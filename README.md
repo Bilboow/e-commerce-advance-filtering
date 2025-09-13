@@ -23,8 +23,8 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/ecommerce-filtering.git  
-cd ecommerce-filtering  
+git clone https://github.com/your-username/e-commerce-advance-filtering.git  
+cd ecommerce-advance-filtering  
 
 # Install dependencies
 npm install  
