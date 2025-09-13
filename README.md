@@ -1,12 +1,39 @@
-# React + Vite
+#🛒 E-Commerce Advanced Filtering
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React + Vite based E-Commerce Filtering System that allows users to search and filter products seamlessly. It provides multiple filtering options including Price, Company (via search bar), Color, and Category. The project showcases how to implement advanced filtering logic in a clean and interactive UI using React, CSS, JavaScript, and React Icons.
 
-Currently, two official plugins are available:
+#⚡ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search by Company through a search bar
 
-## Expanding the ESLint configuration
+🎨 Filter by Color for products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏷️ Filter by Category
+
+💲 Price-based Filtering with range support
+
+⚛️ Built with React + Vite for fast performance
+
+🎭 UI styling with CSS and React Icons
+
+
+#⚙️ Installation & Run
+
+Clone the repository and install dependencies:
+
+```bash
+# Clone repo
+git clone https://github.com/your-username/ecommerce-filtering.git  
+cd ecommerce-filtering  
+
+# Install dependencies
+npm install  
+
+# Run the project
+npm run dev  
+```
+
+#🖼️ Screenshot
+<img width="1440" height="858" alt="Screenshot 2025-09-14 at 4 03 14 AM" src="https://github.com/user-attachments/assets/ee836bcc-a288-49b2-8b89-5953d0691be7" />
+
+
